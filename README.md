@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nursultan Kambar</h1>
 <h3 align="center">A passionate backend and software developer from Kazakhstan.</h3>
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=northkz&label=Profile%20views&color=0e75b6&style=flat" alt="northkz" /> </p>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=northkz&label=Profile%20views&color=0e75b6&style=flat" alt="northkz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=northkz" alt="northkz" /></a> </p>
-
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=northkz" alt="northkz" /></a> </p>
+-->
 - 🌱 I’m currently learning **Fullstack Web development**
 
 - 👯 I’m looking to collaborate on **projects on pyhton,react**
